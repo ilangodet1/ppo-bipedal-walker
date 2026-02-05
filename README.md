@@ -1,0 +1,1 @@
+This project solved OpenAI's Bipedal Walker in both the normal and hardcore environments. The files uploaded include the code for training the agent, the learning curves for both environments, as well as the final videos of the agent solving the environments.
